@@ -1,0 +1,78 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Throwback Hip Bag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "stock_quantity": 20,
+        "price": 30,
+        "image": "https://tse3.mm.bing.net/th?id=OIP.g8pSFsnaAoH9CVyu_wt81wHaHa&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 2,
+        "productName": "Lie Lie bag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "stock_quantity": 20,
+        "price": 30,
+        "image": "https://tse4.mm.bing.net/th?id=OIP.NPg3CazeD5QNBTHwzsKiIQHaE8&pid=Api&P=0&h=180"
+      },
+      {
+        "id": 3,
+        "productName": "Beautiful handbag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "stock_quantity": 20,
+        "price": 30,
+        "image": "https://tse3.mm.bing.net/th?id=OIP.RIC9ol9dvMKiP8Rv4isSFAHaHa&pid=Api&P=0&h=180"
+      }
+    ],
+    "carts": [
+      {
+        "id": 1,
+        "product": {
+          "id": 1,
+          "productName": "Throwback Hip Bag",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+          "stock_quantity": 20,
+          "price": 30,
+          "image": "https://tse3.mm.bing.net/th?id=OIP.g8pSFsnaAoH9CVyu_wt81wHaHa&pid=Api&P=0&h=180"
+        },
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "product": {
+          "id": 2,
+          "productName": "Lie Lie bag",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+          "stock_quantity": 20,
+          "price": 30,
+          "image": "https://tse4.mm.bing.net/th?id=OIP.NPg3CazeD5QNBTHwzsKiIQHaE8&pid=Api&P=0&h=180"
+        },
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "product": {
+          "id": 3,
+          "productName": "Beautiful handbag",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+          "stock_quantity": 20,
+          "price": 30,
+          "image": "https://tse3.mm.bing.net/th?id=OIP.RIC9ol9dvMKiP8Rv4isSFAHaHa&pid=Api&P=0&h=180"
+        },
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "product": {
+          "id": 3,
+          "productName": "Beautiful handbag",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+          "stock_quantity": 20,
+          "price": 30,
+          "image": "https://tse3.mm.bing.net/th?id=OIP.RIC9ol9dvMKiP8Rv4isSFAHaHa&pid=Api&P=0&h=180"
+        },
+        "quantity": 1
+      }
+    ]
+  }
